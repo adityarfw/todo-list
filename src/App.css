@@ -1,0 +1,17 @@
+.main {
+  text-align: center;
+}
+.App {
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+}
+
+.list-items {
+  margin-top: 50px;
+  margin-left: 500px;
+}
+
+li {
+  cursor: pointer;
+}
